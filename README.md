@@ -1,4 +1,4 @@
-# 03_06_solution_develop_a_container_image_pipeline
+# Solution_develop_a_container_image_pipeline
 It's time for a challenge!
 
 You’ve just joined a team that’s developing an API for mobile applications.  They’re using containers for the first time and need to set up a CI/CD pipeline to publish container images.
