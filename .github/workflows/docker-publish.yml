@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: iyappanjaya/GithubLearning1/.github/workflows/python-app.yml
+    uses: iyappanjaya/continuous-integration/.github/workflows/python-integration.yml
     permissions:
       contents: read
       checks: write
